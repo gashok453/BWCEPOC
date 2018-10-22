@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/BWCE_POC.module/Service Descriptors/bwce_poc.module.Process-BWCE_POC.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1539966162062"
+}]}

@@ -1,0 +1,4 @@
+description.buildorder=DemoRESTAPI.module/TestDBConn.module/DemoRESTAPI/TestDBConn
+description.defaultbuildorder=false
+eclipse.preferences.version=1
+version=1
